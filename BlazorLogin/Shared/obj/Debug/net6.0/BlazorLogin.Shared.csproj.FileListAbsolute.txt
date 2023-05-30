@@ -1,0 +1,12 @@
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\bin\Debug\net6.0\BlazorLogin.Shared.deps.json
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\bin\Debug\net6.0\BlazorLogin.Shared.dll
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\bin\Debug\net6.0\BlazorLogin.Shared.pdb
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.csproj.AssemblyReference.cache
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.AssemblyInfoInputs.cache
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.AssemblyInfo.cs
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.csproj.CoreCompileInputs.cache
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.dll
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\refint\BlazorLogin.Shared.dll
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\BlazorLogin.Shared.pdb
+C:\Repository\Blazor-LoginAndAuthorization\BlazorLogin\Shared\obj\Debug\net6.0\ref\BlazorLogin.Shared.dll
